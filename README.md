@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-21-CDB687?style=flat&logo=openjdk&logoColor=FFFFFF" />
-  <img alt="Paper" src="https://img.shields.io/badge/Paper-1.21.x-CDB687?style=flat&logoColor=1f1f1f" />
-  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-CDB687?style=flat&logoColor=1f1f1f" />
-  <img alt="HTTP API" src="https://img.shields.io/badge/HTTP%20API-CDB687?style=flat&logoColor=1f1f1f" />
-  <img alt="Gson" src="https://img.shields.io/badge/Gson-CDB687?style=flat&logoColor=1f1f1f" />
-  <img alt="Mohist" src="https://img.shields.io/badge/Mohist-CDB687?style=flat&logoColor=1f1f1f" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-21-EAD9B2?style=flat&logo=openjdk&logoColor=FFFFFF" />
+  <img alt="Paper" src="https://img.shields.io/badge/Paper-1.21.x-CDB687?style=flat&logoColor=FFFFFF" />
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-CDB687?style=flat&logoColor=FFFFFF" />
+  <img alt="HTTP API" src="https://img.shields.io/badge/HTTP%20API-CDB687?style=flat&logoColor=FFFFFF" />
+  <img alt="Gson" src="https://img.shields.io/badge/Gson-CDB687?style=flat&logoColor=FFFFFF" />
+  <img alt="Mohist" src="https://img.shields.io/badge/Mohist-CDB687?style=flat&logoColor=FFFFFF" />
 </p>
 
 ---
