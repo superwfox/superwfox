@@ -21,11 +21,14 @@
   <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-CDB687?style=flat&logoColor=1f1f1f" />
   <img alt="HTTP API" src="https://img.shields.io/badge/HTTP%20API-CDB687?style=flat&logoColor=1f1f1f" />
   <img alt="Gson" src="https://img.shields.io/badge/Gson-CDB687?style=flat&logoColor=1f1f1f" />
+  <img alt="Mohist" src="https://img.shields.io/badge/Mohist-CDB687?style=flat&logoColor=1f1f1f" />
 </p>
 
 ---
 
 ## 我在做什么 / Focus
+- **Paper / Mohist 服务端开发**：事件驱动玩法、性能敏感模块、兼容性与交付
+  Paper/Mohist server-side development: event-driven gameplay, performance-aware modules, compatibility & delivery
 - **实时通信与系统集成**：WebSocket / HTTP，对接外部平台与协议（QQ / OneBot 等）  
   Real-time communication & integrations (WebSocket/HTTP, external platforms)
 - **事件驱动与并发异步**：高频事件下的状态管理、异步任务拆分、线程安全意识  
@@ -36,7 +39,6 @@
 ---
 
 ## 代表项目 / Featured
-> 建议把下面 4 个 Pin 到主页（Pinned repositories）
 
 - **Courier** — QQ ↔ Minecraft 实时桥接（WebSocket、消息路由、白名单/配置）  
   QQ ↔ Minecraft bridge via WebSocket (routing, allowlist/config)
@@ -46,6 +48,7 @@
   System-style gameplay plugin (event-driven flow, async + main-thread safety)
 - **CraftGod / EquipmentPro** — BlockDisplay 交互/UI 或 3D 头饰系统（渲染+状态）  
   BlockDisplay-based UI/interaction or 3D cosmetic system
+**常做类型**：群服/跨端通信（WebSocket）、数据记录与管理（JSON/CSV）、GUI、玩法系统（Arena/波次/Boss）、BlockDisplay 表现层。
 
 ---
 
@@ -56,6 +59,21 @@
   Prefer event-driven over polling; handle cleanup & failure paths
 - 习惯写清楚：README、配置示例、边界与已知限制  
   Documented: README, config examples, boundaries & limitations
+
+---
+
+## 插件定制与交付 / Commissions
+- 提供 **Paper / Mohist** 插件定制开发：玩法功能、指令/权限、数据存储、GUI、跨服/群服通信等  
+  Custom Minecraft plugin development for **Paper / Mohist**
+- 定制报价：**¥20 起**；小功能 **¥5/项**；常规定制均价约 **¥250**  
+  Starting from ¥20; small features ¥5 each; typical average around ¥250
+- 交付经验：曾完成 **¥300** 级别的“维度相关插件”定制（按需求实现与维护）  
+  Delivered paid commissions up to ¥300 (dimension-related plugin)
+- 简单需求可免费协助（练手/开源优先）  
+  Simple requests may be done for free (practice/open-source preferred)
+
+> 如需定制：请在对应仓库开 Issue（说明版本、平台、需求与预期效果）或直接联系我 `2963502563` QQ。  
+> For commissions, open an Issue in the related repo with platform/version + requirements or contact me with QQ `2963502563`.
 
 ---
 
