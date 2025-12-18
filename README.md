@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/superwfox?tab=repositories">项目 / Projects</a> ·
-  <a href="https://github.com/superwfox">主页 / Profile</a>
+  <a href="https://github.com/superwfox?tab=repositories">【查看我的项目 / Projects】</a>
 </p>
 
 <p align="center">
