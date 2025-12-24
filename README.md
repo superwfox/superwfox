@@ -19,7 +19,6 @@
   <img alt="Paper" src="https://img.shields.io/badge/Paper-1.21.x-EAD9B2?style=flat&logoColor=FFFFFF" />
   <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-EAD9B2?style=flat&logoColor=FFFFFF" />
   <img alt="HTTP API" src="https://img.shields.io/badge/HTTP%20API-EAD9B2?style=flat&logoColor=FFFFFF" />
-  <img alt="Gson" src="https://img.shields.io/badge/Gson-EAD9B2?style=flat&logoColor=FFFFFF" />
   <img alt="Mohist" src="https://img.shields.io/badge/Mohist-EAD9B2?style=flat&logoColor=FFFFFF" />
 </p>
 
