@@ -38,13 +38,10 @@
 
 ## 代表项目 / Featured
 
-- **[Courier](https://github.com/superwfox/Courier)** — QQ ↔ Minecraft 实时桥接（WebSocket、消息路由、白名单/配置）  
-  QQ ↔ Minecraft bridge via WebSocket (routing, allowlist/config)
+- **[Courier](https://github.com/superwfox/Courier)** / **[MornsixQQBot](https://github.com/superwfox/MornsixQQBot)** — QQ ↔ Minecraft 实时桥接（WebSocket、消息路由、白名单/配置、异步请求响应）  
+  QQ ↔ Minecraft bridge via WebSocket (routing, allowlist/config，Async request/response matching)
 
-- **[MornsixQQBot](https://github.com/superwfox/MornsixQQBot)** — 异步请求-响应匹配（CompletableFuture、并发映射）  
-  Async request/response matching (CompletableFuture, concurrent mapping)
-
-- **[Arena](https://github.com/superwfox/Arena)** — 玩法系统化（事件驱动流程、异步任务 + 主线程安全）  
+- **[Arena](https://github.com/superwfox/Arena)** — 多维度插件（事件驱动流程、异步任务 + 主线程安全）  
   System-style gameplay plugin (event-driven flow, async + main-thread safety)
 
 - **[CraftGod](https://github.com/superwfox/CraftGod)** / **[EquipmentPro](https://github.com/superwfox/EquipmentPro)** — BlockDisplay 交互/UI 或 3D 头饰系统（渲染+状态）  
