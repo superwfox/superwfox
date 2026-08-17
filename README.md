@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>当前就职于`武汉`）</b> · <b>Open to Opportunities</b>
+  <b>当前就职于`武汉`）</b> · <b>Working at Wuhan</b>
 </p>
 
 <p align="center">
