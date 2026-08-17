@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">SUDARK</title>
+  <desc id="desc">SUDARK wordmark for dark GitHub themes</desc>
+  <defs>
+    <clipPath id="cyanCuts"><rect x="0" y="46" width="760" height="18"/><rect x="0" y="105" width="760" height="13"/><rect x="0" y="151" width="760" height="10"/></clipPath>
+    <clipPath id="magentaCuts"><rect x="0" y="77" width="760" height="13"/><rect x="0" y="132" width="760" height="12"/></clipPath>
+  </defs>
+  <g font-family="Arial Black, Impact, sans-serif" font-size="150" font-weight="900" letter-spacing="8">
+    <text x="5" y="151" textLength="730" lengthAdjust="spacingAndGlyphs" fill="#00cbd6" clip-path="url(#cyanCuts)">SUDARK</text>
+    <text x="-6" y="151" textLength="730" lengthAdjust="spacingAndGlyphs" fill="#d72acb" clip-path="url(#magentaCuts)">SUDARK</text>
+    <text x="0" y="151" textLength="730" lengthAdjust="spacingAndGlyphs" fill="#f0f3f6">SUDARK</text>
+  </g>
+  <rect x="3" y="174" width="315" height="5" fill="#00cbd6"/><rect x="326" y="174" width="130" height="5" fill="#d72acb"/><rect x="464" y="174" width="240" height="5" fill="#f0f3f6" opacity=".72"/>
+</svg>

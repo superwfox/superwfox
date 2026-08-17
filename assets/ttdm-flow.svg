@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc">
+  <title id="title">TTDM telemetry review pipeline</title><desc id="desc">Two recorders send encrypted telemetry into the TTDM review interface</desc>
+  <g fill="none" stroke="#8b949e" stroke-width="3"><path d="M256 120L390 176"/><path d="M256 280L390 224"/><path d="M610 200H708"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <g transform="translate(30 62)"><rect width="226" height="116" rx="12" fill="none" stroke="#8b949e" stroke-width="2"/><text x="113" y="54" font-size="24" font-weight="700" fill="#8b949e">TTDMRECORDER</text><text x="113" y="84" font-size="17" font-weight="700" fill="#8b949e">TITAN BRAWL</text></g>
+    <g transform="translate(30 222)"><rect width="226" height="116" rx="12" fill="none" stroke="#8b949e" stroke-width="2"/><text x="113" y="54" font-size="24" font-weight="700" fill="#8b949e">ATTRECORDER</text><text x="113" y="84" font-size="17" font-weight="700" fill="#8b949e">ATTRITION</text></g>
+    <g transform="translate(390 130)"><rect width="220" height="140" rx="14" fill="#111820" stroke="#00cbd6" stroke-width="4"/><text x="110" y="64" font-size="25" font-weight="700" fill="#f0f3f6">ENCRYPTED</text><text x="110" y="99" font-size="17" font-weight="700" fill="#b8c0c7">TELEMETRY / 500 MS</text></g>
+    <g transform="translate(708 45)"><rect width="262" height="310" rx="14" fill="none" stroke="#8b949e" stroke-width="2"/><text x="131" y="55" font-size="25" font-weight="700" fill="#8b949e">TTDM-REVIEW</text><text x="131" y="86" font-size="16" font-weight="700" fill="#8b949e">MATCH ANALYTICS / REPLAY</text><g stroke="#8b949e" stroke-width="1" opacity=".35"><path d="M25 128H237M25 170H237M25 212H237M25 254H237"/></g><path d="M25 260L66 247L96 161L139 197L180 269L217 181L242 146" fill="none" stroke="#00cbd6" stroke-width="5"/><path d="M25 282L73 288L119 247L158 266L194 193L226 239L242 223" fill="none" stroke="#d72acb" stroke-width="4"/></g>
+  </g>
+</svg>

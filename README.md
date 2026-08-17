@@ -1,58 +1,78 @@
-<p align="center">
-  <img src="./assets/hero.webp" width="100%" alt="Sudark — AI systems and real-time engineering" />
-</p>
+<img align="right" width="47%" src="./assets/titan.webp" alt="Titan" />
 
-<p align="center">
-  <a href="https://github.com/superwfox/minecraft-dev"><b>TAHAI</b></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/superwfox/MyLord"><b>MYLORD</b></a>
-  &nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="https://github.com/superwfox/TTDMRecorder"><b>TTDM STACK</b></a>
-  <br/>
-  <sub>CREATE &nbsp;/&nbsp; ACT &nbsp;/&nbsp; OBSERVE</sub>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.svg" />
+  <img width="48%" src="./assets/wordmark-light.svg" alt="SUDARK" />
+</picture>
+
+## AI SYSTEMS
+## REAL-TIME ENGINEERING
+
+**CREATE / ACT / OBSERVE**
+
+Planning · Memory · Telemetry  
+Recovery · Delivery
+
+[**TAHAI**](https://github.com/superwfox/minecraft-dev) &nbsp;/&nbsp; [**MYLORD**](https://github.com/superwfox/MyLord) &nbsp;/&nbsp; [**TTDM STACK**](https://github.com/superwfox/TTDMRecorder)
+
+<br clear="right" />
 
 ---
 
-<a href="https://github.com/superwfox/minecraft-dev">
-  <img src="./assets/tahai.webp" width="100%" alt="TAHAI — from intent to artifact" />
-</a>
+<img align="right" width="49%" src="./assets/tahai-flow.svg" alt="TAHAI build pipeline: intent, plan, generate, review, ship" />
 
-### `T-01 / CREATE` · [TAHAI](https://github.com/superwfox/minecraft-dev)
+`T-01 / CREATE`
 
-**From intent to artifact.** Multi-agent planning, parallel generation, static review, build recovery, and JAR delivery.
+# TAHAI
+
+### From intent to artifact.
+
+Multi-agent planning, parallel generation, static review, build recovery, and JAR delivery.
 
 `Cloudflare Workers` · `D1` · `KV` · `SSE` · `GitHub Actions`
 
+[**Repository →**](https://github.com/superwfox/minecraft-dev)
+
+<br clear="right" />
+
 ---
 
-<a href="https://github.com/superwfox/MyLord">
-  <img src="./assets/mylord.webp" width="100%" alt="MyLord — agent with a body" />
-</a>
+<img align="right" width="45%" src="./assets/mylord-orbit.svg" alt="MyLord agent loop: perception, memory, tools, body" />
 
-### `M-02 / ACT` · [MyLord](https://github.com/superwfox/MyLord)
+`M-02 / ACT`
 
-**Agent with a body.** Perception, private memory, validated tools, embodied action, recovery, and persistence.
+# MYLORD
+
+### Agent with a body.
+
+Perception, private memory, validated tools, embodied action, recovery, and persistence.
 
 `event-driven` · `failure-closed`
 
+[**Repository →**](https://github.com/superwfox/MyLord)
+
+<br clear="right" />
+
 ---
 
-<a href="https://github.com/superwfox/ttdm-review">
-  <img src="./assets/ttdm.webp" width="100%" alt="TTDM Stack — from match to evidence" />
-</a>
+<img align="right" width="52%" src="./assets/ttdm-flow.svg" alt="TTDM telemetry pipeline from recorders to review" />
 
-### `R-03 / OBSERVE` · TTDM Stack
+`R-03 / OBSERVE`
 
-**From match to evidence.** TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metrics, timelines, match replay, and review.
+# TTDM STACK
+
+### From match to evidence.
+
+TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metrics, timelines, match replay, and review.
 
 [**TTDMRecorder**](https://github.com/superwfox/TTDMRecorder) · [**ATTRecorder**](https://github.com/superwfox/ATTRecorder) → [**ttdm-review**](https://ttdm.space)
 
+<br clear="right" />
+
 ---
 
-<p align="center">
-  <img src="./assets/qa.webp" width="100%" alt="AI or hands-on engineering? More AI these days — courtesy of the times. Execution still decides whether it counts." />
-</p>
+## Q/A
 
 ### AI 还是实干？
 
