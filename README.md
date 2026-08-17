@@ -24,7 +24,11 @@ Recovery · Delivery
 
 `T-01 / CREATE`
 
-# TAHAI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-tahai-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-tahai-light.svg" />
+  <img width="44%" src="./assets/title-tahai-light.svg" alt="TAHAI" />
+</picture>
 
 ### From intent to artifact.
 
@@ -42,7 +46,11 @@ Multi-agent planning, parallel generation, static review, build recovery, and JA
 
 `M-02 / ACT`
 
-# MYLORD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-mylord-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-mylord-light.svg" />
+  <img width="44%" src="./assets/title-mylord-light.svg" alt="MYLORD" />
+</picture>
 
 ### Agent with a body.
 
@@ -60,7 +68,11 @@ Perception, private memory, validated tools, embodied action, recovery, and pers
 
 `R-03 / OBSERVE`
 
-# TTDM STACK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-ttdm-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-ttdm-light.svg" />
+  <img width="45%" src="./assets/title-ttdm-light.svg" alt="TTDM STACK" />
+</picture>
 
 ### From match to evidence.
 

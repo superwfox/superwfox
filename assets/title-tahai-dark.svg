@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">TAHAI</title>
+  <desc id="desc">TAHAI set in the supplied Minecrafter typeface</desc>
+  <g transform="translate(82.285 154) scale(0.190000 -0.190000)" fill="#00cbd6" opacity=".92"><path d="M31 577V784H630V577H460V0H201V577Z" transform="translate(0 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(694 0)"/><path d="M287 784V500H423V784H673V0H423V284H287V0H37V784Z" transform="translate(1407 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(2157 0)"/><path d="M284 784V0H37V784Z" transform="translate(2870 0)"/></g>
+  <g transform="translate(70.285 154) scale(0.190000 -0.190000)" fill="#d72acb" opacity=".86"><path d="M31 577V784H630V577H460V0H201V577Z" transform="translate(0 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(694 0)"/><path d="M287 784V500H423V784H673V0H423V284H287V0H37V784Z" transform="translate(1407 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(2157 0)"/><path d="M284 784V0H37V784Z" transform="translate(2870 0)"/></g>
+  <g transform="translate(76.285 154) scale(0.190000 -0.190000)" fill="#f0f3f6"><path d="M31 577V784H630V577H460V0H201V577Z" transform="translate(0 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(694 0)"/><path d="M287 784V500H423V784H673V0H423V284H287V0H37V784Z" transform="translate(1407 0)"/><path d="M636 784V0H380V210H293V0H37V784ZM296 401H377V599H296Z" transform="translate(2157 0)"/><path d="M284 784V0H37V784Z" transform="translate(2870 0)"/></g>
+  <rect x="18" y="174" width="292" height="5" fill="#00cbd6"/>
+  <rect x="318" y="174" width="118" height="5" fill="#d72acb"/>
+  <rect x="444" y="174" width="256" height="5" fill="#f0f3f6" opacity=".68"/>
+</svg>
