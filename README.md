@@ -92,10 +92,9 @@ TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metri
 
 ## Q/A
 
-### AI 还是实干？
+### 在今天，AI还是实干？
 
 > **AI 多一些，时代所赐。**  
-> 能不能跑起来，仍由实干裁决。
 
 ---
 
