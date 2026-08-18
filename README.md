@@ -97,6 +97,14 @@ TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metri
 > **AI 多一些，时代所赐。**  
 > 能不能跑起来，仍由实干裁决。
 
+---
+
+## OPEN TO WORK
+
+`STATUS / OPEN` · `BASE / WUHAN, CN`
+
+Currently working in **Wuhan, China** and open to new opportunities.
+
 <p align="center">
   <a href="https://github.com/superwfox?tab=repositories">Projects</a>
   &nbsp;·&nbsp;

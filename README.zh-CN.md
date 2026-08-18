@@ -97,6 +97,14 @@ TTDMRecorder 与 ATTRecorder 将加密遥测数据汇入 ttdm-review，用于指
 > **AI 多一些，时代所赐。**  
 > 能不能跑起来，仍由实干裁决。
 
+---
+
+## OPEN TO WORK
+
+`状态 / 开放机会` · `所在地 / 中国武汉`
+
+目前在**武汉**工作，也在寻找新的机会。
+
 <p align="center">
   <a href="https://github.com/superwfox?tab=repositories">项目</a>
   &nbsp;·&nbsp;
