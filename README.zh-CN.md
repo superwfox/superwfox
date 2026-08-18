@@ -13,9 +13,9 @@
 </picture>
 
 ## AI 系统
-## 实时工程
+## 我在做什么
 
-**创造 / 行动 / 观察**
+**创造 / 执行 / 运筹**
 
 规划 · 记忆 · 遥测  
 恢复 · 交付
@@ -36,7 +36,7 @@
   <img width="44%" src="./assets/title-tahai-light.svg" alt="TAHAI" />
 </picture>
 
-### 从意图到产物。
+### 踏海 - Minecraft插件生成Agent
 
 多智能体规划、并行生成、静态审查、构建恢复与 JAR 交付。
 
