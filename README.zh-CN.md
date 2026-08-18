@@ -12,7 +12,7 @@
   <img width="48%" src="./assets/wordmark-light.svg" alt="SUDARK" />
 </picture>
 
-## AI 系统
+## 人工智能系统
 ## 我在做什么
 
 **创造 / 执行 / 运筹**
