@@ -92,10 +92,9 @@ TTDMRecorder 与 ATTRecorder 将加密遥测数据汇入 ttdm-review，用于指
 
 ## Q/A
 
-### AI 还是实干？
+### 在今天，AI还是实干？
 
 > **AI 多一些，时代所赐。**  
-> 能不能跑起来，仍由实干裁决。
 
 ---
 
