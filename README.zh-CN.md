@@ -1,7 +1,7 @@
 <p align="right">
-  <strong>EN</strong>
+  <a href="./README.md">EN</a>
   &nbsp;/&nbsp;
-  <a href="./README.zh-CN.md">中文</a>
+  <strong>中文</strong>
 </p>
 
 <img align="right" width="47%" src="./assets/titan.webp" alt="Titan" />
@@ -12,13 +12,13 @@
   <img width="48%" src="./assets/wordmark-light.svg" alt="SUDARK" />
 </picture>
 
-## AI SYSTEMS
-## REAL-TIME ENGINEERING
+## AI 系统
+## 实时工程
 
-**CREATE / ACT / OBSERVE**
+**创造 / 行动 / 观察**
 
-Planning · Memory · Telemetry  
-Recovery · Delivery
+规划 · 记忆 · 遥测  
+恢复 · 交付
 
 [**TAHAI**](https://github.com/superwfox/minecraft-dev) &nbsp;/&nbsp; [**MYLORD**](https://github.com/superwfox/MyLord) &nbsp;/&nbsp; [**TTDM STACK**](https://github.com/superwfox/TTDMRecorder)
 
@@ -26,7 +26,7 @@ Recovery · Delivery
 
 ---
 
-<img align="right" width="49%" src="./assets/tahai-flow.svg" alt="TAHAI build pipeline: intent, plan, generate, review, ship" />
+<img align="right" width="49%" src="./assets/tahai-flow.svg" alt="TAHAI 构建流程：意图、规划、生成、审查、交付" />
 
 `T-01 / CREATE`
 
@@ -36,19 +36,19 @@ Recovery · Delivery
   <img width="44%" src="./assets/title-tahai-light.svg" alt="TAHAI" />
 </picture>
 
-### From intent to artifact.
+### 从意图到产物。
 
-Multi-agent planning, parallel generation, static review, build recovery, and JAR delivery.
+多智能体规划、并行生成、静态审查、构建恢复与 JAR 交付。
 
 `Cloudflare Workers` · `D1` · `KV` · `SSE` · `GitHub Actions`
 
-[**Repository →**](https://github.com/superwfox/minecraft-dev)
+[**仓库 →**](https://github.com/superwfox/minecraft-dev)
 
 <br clear="right" />
 
 ---
 
-<img align="right" width="45%" src="./assets/mylord-orbit.svg" alt="MyLord agent loop: perception, memory, tools, body" />
+<img align="right" width="45%" src="./assets/mylord-orbit.svg" alt="MyLord Agent 循环：感知、记忆、工具、身体" />
 
 `M-02 / ACT`
 
@@ -58,19 +58,19 @@ Multi-agent planning, parallel generation, static review, build recovery, and JA
   <img width="44%" src="./assets/title-mylord-light.svg" alt="MYLORD" />
 </picture>
 
-### Agent with a body.
+### 拥有身体的 Agent。
 
-Perception, private memory, validated tools, embodied action, recovery, and persistence.
+感知、私有记忆、经验证的工具、具身行动、恢复与持久化。
 
-`event-driven` · `failure-closed`
+`事件驱动` · `故障闭合`
 
-[**Repository →**](https://github.com/superwfox/MyLord)
+[**仓库 →**](https://github.com/superwfox/MyLord)
 
 <br clear="right" />
 
 ---
 
-<img align="right" width="52%" src="./assets/ttdm-flow.svg" alt="TTDM telemetry pipeline from recorders to review" />
+<img align="right" width="52%" src="./assets/ttdm-flow.svg" alt="从记录器到复盘的 TTDM 遥测流程" />
 
 `R-03 / OBSERVE`
 
@@ -80,9 +80,9 @@ Perception, private memory, validated tools, embodied action, recovery, and pers
   <img width="45%" src="./assets/title-ttdm-light.svg" alt="TTDM STACK" />
 </picture>
 
-### From match to evidence.
+### 从对局到证据。
 
-TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metrics, timelines, match replay, and review.
+TTDMRecorder 与 ATTRecorder 将加密遥测数据汇入 ttdm-review，用于指标分析、时间线、对局回放与复盘。
 
 [**TTDMRecorder**](https://github.com/superwfox/TTDMRecorder) · [**ATTRecorder**](https://github.com/superwfox/ATTRecorder) → [**ttdm-review**](https://ttdm.space)
 
@@ -101,12 +101,12 @@ TTDMRecorder and ATTRecorder feed encrypted telemetry into ttdm-review for metri
 
 ## OPEN TO WORK
 
-`STATUS / OPEN` · `BASE / WUHAN, CN`
+`状态 / 开放机会` · `所在地 / 中国武汉`
 
-Currently working in **Wuhan, China** and open to new opportunities.
+目前在**武汉**工作，也在寻找新的机会。
 
 <p align="center">
-  <a href="https://github.com/superwfox?tab=repositories">Projects</a>
+  <a href="https://github.com/superwfox?tab=repositories">项目</a>
   &nbsp;·&nbsp;
-  <a href="mailto:2963502563@qq.com">Email</a>
+  <a href="mailto:2963502563@qq.com">邮箱</a>
 </p>

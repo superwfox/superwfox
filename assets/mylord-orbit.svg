@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" role="img" aria-labelledby="title desc">
+  <title id="title">MyLord embodied agent loop</title><desc id="desc">Perception, memory, tools, and body surround an active agent core</desc>
+  <defs><radialGradient id="core" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#aafaff"/><stop offset=".4" stop-color="#00cbd6"/><stop offset="1" stop-color="#00cbd6" stop-opacity="0"/></radialGradient></defs>
+  <g transform="translate(382 196)"><circle r="150" fill="none" stroke="#8b949e" stroke-width="2" stroke-dasharray="4 11" opacity=".55"/><circle r="110" fill="none" stroke="#00cbd6" stroke-width="3" opacity=".82"/><circle r="69" fill="#111820" stroke="#d72acb" stroke-width="3"/><circle r="29" fill="url(#core)"/><path d="M-165 0H165M0-165V165" stroke="#8b949e" stroke-width="2" opacity=".4"/></g>
+  <g fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" text-anchor="middle"><text x="382" y="47">PERCEPTION</text><text x="583" y="205">MEMORY</text><text x="382" y="379">BODY</text><text x="176" y="205">TOOLS</text></g>
+  <path d="M30 50H270" stroke="#d72acb" stroke-width="5"/><path d="M30 65H225" stroke="#00cbd6" stroke-width="4"/><path d="M566 329H735" stroke="#8b949e" stroke-width="6" opacity=".5"/><path d="M605 344H735" stroke="#00cbd6" stroke-width="4"/>
+</svg>
